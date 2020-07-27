@@ -4,6 +4,6 @@
 3. Open cmd and go to path your folder project
 4. run mvn test
 
-# example-tweet
-
-#
+#result
+1. report generate use technology trivago
+2. report in path target/generated-report-tweet and open the html file
